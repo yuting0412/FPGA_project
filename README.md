@@ -4,7 +4,7 @@
 ## input/output
 ### input
 - 指撥開關
-    - ![](https://i.imgur.com/bZ6uZ9V.jpg =300x)
+    - ![](https://i.imgur.com/bZ6uZ9V.jpg)
     - `藍 1` :暫停遊戲
         - `1` : 暫停
         - `0` : 開始
@@ -14,22 +14,22 @@
     - `紅 3` `紅 4` : 關卡等級設定
 
 - 輕觸開關
-    - ![](https://i.imgur.com/VepAwF6.jpg =300x)
+    - ![](https://i.imgur.com/VepAwF6.jpg)
     - `S1`, `S2` : 控制平台左右移動
     - `S3` : 球掉出遊戲範圍後，若還有球數，使用新的球繼續遊戲
     - `S4` : 球數歸零後，重新開始遊戲
 ### output
 - 8x8 LED 矩陣
     - 顯示遊戲畫面
-        - ![](https://i.imgur.com/ToeYDRZ.jpg =300x)
+        - ![](https://i.imgur.com/ToeYDRZ.jpg)
 
 - 七段顯示器
     - 打掉幾個 block (得分)
-        - ![](https://i.imgur.com/BMZhXlN.jpg =300x)
+        - ![](https://i.imgur.com/BMZhXlN.jpg)
 
 - LED 陣列
     - 剩餘球數
-        - ![](https://i.imgur.com/styprnb.jpg =300x)
+        - ![](https://i.imgur.com/styprnb.jpg)
 
 ## 功能說明
 - 單人遊戲，每人有 3 球
